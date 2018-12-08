@@ -1,2 +1,2 @@
 # Realistic-Artistic
-Blog - Wordpress
+An example of a Blog in a free version of the WordPress.
